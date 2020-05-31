@@ -11,6 +11,6 @@ The tab "All Stocks Analysis' of the Excel file "green_stocks_Challenge.xlsm" co
 - Previous non-optimized macro "All_Stock_Analysis()" (also under Module 2) has been kept to show improvements of the refactored macro. It is also linked with a button (named "Run Analysis for All Stocks").
 
 ## Data analysis (limited to year 2018)
-Based on macros results, on the 12 tickers analyzed, on two had a positive return for the year 2018. Both returns are huge and these tickers should be the most "go and invest" ones.
+On the 12 tickers analyzed, only two had a positive return for the year 2018. Both returns are huge and these tickers should be the most "go and invest" ones.
 
 
