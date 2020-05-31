@@ -2,7 +2,7 @@
 
 ## Macro presentation
 
-The tab "All Stocks Analysis' of the Excel file "green_stocks_Challenge.xlsm" contains one refactored macro "All_Stock_Analysis_Refactored()" under module 2 which allows to return ticker's daily volume exchanged and yearly returns. A related input button has been created for convenience matter (named "Run refactored Analysis for All Stocks").
+The tab "All Stocks Analysis' of the Excel file "green_stocks_Challenge.xlsm" contains one refactored macro "All_Stock_Analysis_Refactored()" under module 2 which allows to return ticker's daily volume exchanged and yearly returns. A related input button has been created for convenience (named "Run refactored Analysis for All Stocks").
 
 **NB:** 
 - The analysis is limited to information gathered on tabs 2017 and 2018 and results are limited to the first 12 found in theses tabs.
